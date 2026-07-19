@@ -69,9 +69,6 @@ AI-InterviewPreparation/
 │
 ├── app.py
 ├── question.json
-├── requirements.txt
-├── pages/
-├── assets/
 ├── README.md
 └── venv/ (ignored)
 ```
