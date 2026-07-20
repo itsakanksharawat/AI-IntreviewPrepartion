@@ -75,44 +75,11 @@ AI-InterviewPreparation/
 
 ---
 
-## ⚙️ Installation
 
-### Clone the repository
 
-```bash
-git clone https://github.com/itsakanksharawat/AI-IntreviewPrepartion.git
-cd AI-IntreviewPrepartion
-```
 
-### Create Virtual Environment
 
-```bash
-python -m venv venv
-```
-
-### Activate
-
-**Windows**
-
-```bash
-venv\Scripts\activate
-```
-
-**Linux / macOS**
-
-```bash
-source venv/bin/activate
-```
-
-### Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## ▶️ Run the Application
+##  Run the Application
 
 ```bash
 streamlit run app.py
@@ -126,7 +93,7 @@ http://localhost:8501
 
 ---
 
-## 📦 Required Libraries
+##  Required Libraries
 
 - streamlit
 - pandas
@@ -134,15 +101,10 @@ http://localhost:8501
 - plotly
 - scikit-learn
 
-Install manually:
-
-```bash
-pip install streamlit pandas numpy plotly scikit-learn
-```
 
 ---
 
-## 🎯 Future Improvements
+##  Future Improvements
 
 - User Authentication
 - AI Resume Analysis
@@ -155,7 +117,7 @@ pip install streamlit pandas numpy plotly scikit-learn
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome!
 
@@ -167,7 +129,7 @@ Contributions are welcome!
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Akanksha Rawat**
 
