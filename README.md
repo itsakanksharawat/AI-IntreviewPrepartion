@@ -17,7 +17,7 @@ An AI-powered interview preparation platform built with **Streamlit**, **Scikit-
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Frontend**
 - Streamlit
