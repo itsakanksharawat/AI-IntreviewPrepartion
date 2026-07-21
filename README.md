@@ -1,19 +1,19 @@
-# 🚀 AI Interview Preparation Platform
+#  AI Interview Preparation Platform
 
 An AI-powered interview preparation platform built with **Streamlit**, **Scikit-learn**, and **Plotly**. The application helps students evaluate their technical skills, predict interview readiness, generate personalized study plans, and practice interview questions through an interactive dashboard.
 
 ---
 
-## ✨ Features
+##  Features
 
-- 👤 Student Profile Management
-- 📊 Skill Assessment across core CS subjects
-- 🤖 ML-based Interview Readiness Prediction
-- 📈 Interactive Performance Dashboard
-- 🛣️ Personalized AI Learning Roadmap
-- ❓ Interview Question Generator
-- 📉 Progress Tracking & Analytics
-- 🎨 Clean and Responsive Streamlit UI
+-  Student Profile Management
+-  Skill Assessment across core CS subjects
+-  ML-based Interview Readiness Prediction
+-  Interactive Performance Dashboard
+-  Personalized AI Learning Roadmap
+-  Interview Question Generator
+-  Progress Tracking & Analytics
+-  Clean and Responsive Streamlit UI
 
 ---
 
@@ -35,7 +35,7 @@ An AI-powered interview preparation platform built with **Streamlit**, **Scikit-
 
 ---
 
-## 📚 Assessment Topics
+##  Assessment Topics
 
 - Arrays
 - Linked Lists
@@ -50,7 +50,7 @@ An AI-powered interview preparation platform built with **Streamlit**, **Scikit-
 
 ---
 
-## 📷 Dashboard Includes
+##  Dashboard Includes
 
 - Topic-wise Performance Chart
 - Skill Radar Chart
@@ -62,7 +62,7 @@ An AI-powered interview preparation platform built with **Streamlit**, **Scikit-
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 AI-InterviewPreparation/
